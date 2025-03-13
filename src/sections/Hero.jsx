@@ -1,7 +1,7 @@
 import { arrowRight } from "../assets/icons";
-import Button from "../components/button";
+import Button from "../components/Button.jsx";
 import { statistics } from "../constants";
-import { bigShoe1 } from "../assets/images";
+import { bigShoe1 } from "../assets/images"
 import { shoes } from "../constants";
 import ShoeCard from "../components/ShoeCard";
 import { useState } from "react";

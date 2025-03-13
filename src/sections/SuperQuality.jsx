@@ -1,5 +1,5 @@
 import { arrowRight } from "../assets/icons";
-import Button from "../components/button";
+import Button from "../components/Button";
 import { shoe8 } from "../assets/images";
 export default function SuperQuality() {
     return (
